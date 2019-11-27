@@ -25,5 +25,7 @@ public class Compartir
 	{
 		Compartir objeto = new Compartir(33);
 		System.out.println(objeto.getVariable());
+		System.out.println("Comentario para cambiar el proyecto");
+		//Este proyecto está cambiado mediante este comentario para subuirlo a github
 	}
 }
